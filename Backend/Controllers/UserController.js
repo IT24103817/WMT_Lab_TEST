@@ -1,5 +1,5 @@
 // Import the User model so we can interact with the database
-const User = require("../models/User");
+const User = require("../Models/User");
 
 // ---------------------- REGISTER CONTROLLER ----------------------
 // This function runs when the user sends POST /api/register
